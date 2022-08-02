@@ -1,0 +1,13 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab02\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.genruntimeconfig.cache
